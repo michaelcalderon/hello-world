@@ -1,2 +1,7 @@
 # hello-world
-My first project
+Hello Techies!
+
+This is my first github project.  
+
+Love,
+Michael
